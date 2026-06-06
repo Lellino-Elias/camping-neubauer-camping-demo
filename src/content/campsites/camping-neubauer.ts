@@ -259,6 +259,7 @@ export const campingNeubauer: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 46.788413, lng: 13.613666 },
     tel: "+43 4766 2532",
     telHref: "tel:+4347662532",
     mail: "info@camping-neubauer.at",
